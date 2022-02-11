@@ -1,0 +1,9 @@
+{
+    "require": {
+        "spekulatius/phpscraper": "^0.5.2"
+    },
+    "config": {
+
+        "platform-check": false
+    }
+}

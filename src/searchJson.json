@@ -1,0 +1,1091 @@
+{
+    "search_metadata":
+    {
+    "id":
+    "6165916694c6c7025deef5ab",
+    "status":
+    "Success",
+    "json_endpoint":
+    "https://serpapi.com/searches/87fa874d05a7fcc5/6165916694c6c7025deef5ab.json",
+    "created_at":
+    "2021-10-12 13:45:10 UTC",
+    "processed_at":
+    "2021-10-12 13:45:11 UTC",
+    "google_url":
+    "https://www.google.com/search?q=Coffee&oq=Coffee&uule=w+CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM&hl=en&gl=us&sourceid=chrome&ie=UTF-8",
+    "raw_html_file":
+    "https://serpapi.com/searches/87fa874d05a7fcc5/6165916694c6c7025deef5ab.html",
+    "total_time_taken":
+    1.85
+    },
+    "search_parameters":
+    {
+    "engine":
+    "google",
+    "q":
+    "Coffee",
+    "location_requested":
+    "Austin, Texas, United States",
+    "location_used":
+    "Austin,Texas,United States",
+    "google_domain":
+    "google.com",
+    "hl":
+    "en",
+    "gl":
+    "us",
+    "device":
+    "desktop"
+    },
+    "search_information":
+    {
+    "organic_results_state":
+    "Results for exact spelling",
+    "query_displayed":
+    "Coffee",
+    "total_results":
+    2520000000,
+    "time_taken_displayed":
+    1.13
+    },
+    "recipes_results":
+    [
+    {
+    "title":
+    "20 Great Coffee Drinks",
+    "link":
+    "https://www.acouplecooks.com/coffee-drinks/",
+    "source":
+    "A Couple Cooks",
+    "total_time":
+    "5 min",
+    "ingredients":
+    [
+    "Moka pot",
+    "dairy free"
+    ],
+    "thumbnail":
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSfn3D91nIvziiA2XG6VNbLO9OiX2WGPrJoLUp1Rjr6tDwdK2_nr2p&s=0"
+    },
+    {
+    "title":
+    "How to Make Iced Coffee",
+    "link":
+    "https://www.recipegirl.com/how-to-make-iced-coffee/",
+    "source":
+    "Recipe Girl",
+    "total_time":
+    "5 min",
+    "ingredients":
+    [
+    "Simple syrup",
+    "cream",
+    "coffee frozen"
+    ],
+    "thumbnail":
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNqPIHJlAzv7SeVn9YftQfBYJkchuC5XrJZe_FtFMXFiFH699VD1m4&s=0"
+    },
+    {
+    "title":
+    "Magical Coffee",
+    "link":
+    "https://food52.com/recipes/2018-magical-coffee",
+    "source":
+    "Food52",
+    "total_time":
+    "8 hr",
+    "ingredients":
+    [
+    "Dark brown sugar",
+    "cream",
+    "ice",
+    "cinnamon",
+    "ground coffee"
+    ],
+    "thumbnail":
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6IMyYHRpLQnCL8ItIdIdG2mHwC0J4_zWHGf06_y78glrhJ8kYrsRv&s=0"
+    }
+    ],
+    "local_map":
+    {
+    "link":
+    "https://www.google.com/search?q=Coffee&npsic=0&rflfq=1&rldoc=1&rllag=30267328,-97742779,104&tbm=lcl&sa=X&ved=2ahUKEwjUxqjxgMXzAhUhmWoFHfPSA5QQtgN6BAgeEAc",
+    "image":
+    "https://serpapi.com/searches/6165916694c6c7025deef5ab/images/2c7265ad4a543339817d42073c4c5df8.png",
+    "gps_coordinates":
+    {
+    "latitude":
+    30.267328,
+    "longitude":
+    -97.742779,
+    "altitude":
+    104
+    }
+    },
+    "local_results":
+    {
+    "more_locations_link":
+    "https://www.google.com/search?tbs=lf:1,lf_ui:9&tbm=lcl&q=Coffee&rflfq=1&num=10&uule=w+CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM&sa=X&ved=2ahUKEwjUxqjxgMXzAhUhmWoFHfPSA5QQjGp6BAgeEGE",
+    "places":
+    [
+    {
+    "position":
+    1,
+    "title":
+    "Starbucks",
+    "place_id":
+    "10605736027611436825",
+    "lsig":
+    "AB86z5XTJ_Io_anVBu2fU6Zaqu3b",
+    "place_id_search":
+    "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&lsig=AB86z5XTJ_Io_anVBu2fU6Zaqu3b&ludocid=10605736027611436825&q=Coffee&tbm=lcl",
+    "reviews":
+    506,
+    "price":
+    "$$",
+    "type":
+    "Coffee shop",
+    "address":
+    "600 Congress Ave",
+    "thumbnail":
+    "https://serpapi.com/searches/6165916694c6c7025deef5ab/images/1da898cc867dbcb3d01977dd6a88324830a17bef6769367010e21458fda67be97c9c3f66ca35fbd3.jpeg",
+    "gps_coordinates":
+    {
+    "latitude":
+    30.26826,
+    "longitude":
+    -97.74296
+    }
+    },
+    {
+    "position":
+    2,
+    "title":
+    "Houndstooth Coffee",
+    "place_id":
+    "11265938073076301333",
+    "lsig":
+    "AB86z5Vdw6C2pJpM0xQ6JUx2KONU",
+    "place_id_search":
+    "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&lsig=AB86z5Vdw6C2pJpM0xQ6JUx2KONU&ludocid=11265938073076301333&q=Coffee&tbm=lcl",
+    "reviews":
+    740,
+    "price":
+    "$$",
+    "type":
+    "Coffee shop",
+    "address":
+    "401 Congress Ave #100c · In Frost Bank Tower",
+    "thumbnail":
+    "https://serpapi.com/searches/6165916694c6c7025deef5ab/images/1da898cc867dbcb3d01977dd6a883248c09e12c31822db27da4d3f71793b876103709dcadd9705be.jpeg",
+    "gps_coordinates":
+    {
+    "latitude":
+    30.2664,
+    "longitude":
+    -97.74278
+    }
+    },
+    {
+    "position":
+    3,
+    "title":
+    "Lucky Lab Coffee",
+    "place_id":
+    "10608433616590646585",
+    "lsig":
+    "AB86z5X1H_n2-O4x616ohROZpOhi",
+    "place_id_search":
+    "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&lsig=AB86z5X1H_n2-O4x616ohROZpOhi&ludocid=10608433616590646585&q=Coffee&tbm=lcl",
+    "reviews":
+    2,
+    "type":
+    "Cafe",
+    "address":
+    "515 Congress Ave · In the Bank of America Financial Center",
+    "thumbnail":
+    "https://serpapi.com/searches/6165916694c6c7025deef5ab/images/1da898cc867dbcb3d01977dd6a88324886cadf9d168daae110c2dd1a08b2d23547f91a9442817f71.png",
+    "gps_coordinates":
+    {
+    "latitude":
+    30.267742,
+    "longitude":
+    -97.74261
+    }
+    }
+    ]
+    },
+    "knowledge_graph":
+    {
+    "title":
+    "Coffee",
+    "type":
+    "Drink",
+    "header_images":
+    [
+    {
+    "image":
+    "https://serpapi.com/searches/6165916694c6c7025deef5ab/images/3da5c3104e4a51e58340d10119d9ef0c8bfff7eefb2c6d74eee99d69c4481dd1679df8e9c6a784e9.jpeg",
+    "source":
+    "https://en.wikipedia.org/wiki/Coffee"
+    },
+    {
+    "image":
+    "https://serpapi.com/searches/6165916694c6c7025deef5ab/images/3da5c3104e4a51e58340d10119d9ef0c8bfff7eefb2c6d747d1b7b1de6208d46ae515ba41bd21677.jpeg",
+    "source":
+    "https://www.nbcnews.com/better/lifestyle/how-tap-health-benefits-coffee-ncna1096031"
+    },
+    {
+    "image":
+    "https://serpapi.com/searches/6165916694c6c7025deef5ab/images/3da5c3104e4a51e58340d10119d9ef0c8bfff7eefb2c6d748906d5985fcefcd48ad5887b4e84fc15.jpeg",
+    "source":
+    "https://www.independent.co.uk/life-style/food-and-drink/coffee-weight-loss-healthy-nutritional-value-fat-burn-diet-metabolism-a8296946.html"
+    },
+    {
+    "image":
+    "https://serpapi.com/searches/6165916694c6c7025deef5ab/images/3da5c3104e4a51e58340d10119d9ef0c8bfff7eefb2c6d745a2748e50daa1b02ad752b079122ff3f.jpeg",
+    "source":
+    "https://austin.eater.com/maps/best-coffee-austin-cafes-patio-latte-pour-over"
+    }
+    ],
+    "description":
+    "Coffee is a brewed drink prepared from roasted coffee beans, the seeds of berries from certain Coffea species. From the coffee fruit, the seeds are separated to produce a stable, raw product: unroasted green coffee.",
+    "source":
+    {
+    "name":
+    "Wikipedia",
+    "link":
+    "https://en.wikipedia.org/wiki/Coffee"
+    },
+    "patron_saint":
+    "Saint Drogo of Sebourg redrockroasters.com",
+    "patron_saint_links":
+    [
+    {
+    "patron_saint_text":
+    "redrockroasters.com",
+    "patron_saint_link":
+    "https://www.redrockroasters.com/shop-accessories/saint-drogo-pocket-retablo"
+    }
+    ],
+    "chicory_coffee":
+    [
+    {
+    "name":
+    "Cafe Du Monde Coffee",
+    "link":
+    "https://www.google.com/search?q=Cafe+Du+Monde+Coffee&stick=H4sIAAAAAAAAAA3Iuw3CMBAAUEUoEhQ0KANElDSH00RKG1pmsIJ9_ijnOwcD2YeSCRgPXvm2m8MOEpy71-LScQ8elApKL77rw6mZzQBGUhIerKy8TndbPpX6HxGaRxSGmWUltB51nhipQAmSc2Sv56yRoo83wnfdjJPD9vJsr8IW21GcQ_zW1Q_6j3k0gAAAAA&sa=X&ved=2ahUKEwjUxqjxgMXzAhUhmWoFHfPSA5QQxA16BAg7EAU",
+    "image":
+    "https://serpapi.com/searches/6165916694c6c7025deef5ab/images/3da5c3104e4a51e58340d10119d9ef0c0f6e783ada4b70fd6842017d38d47bed2998db83edddf2f6.jpeg"
+    },
+    {
+    "name":
+    "12 oz. Ground Pure Chi...",
+    "link":
+    "https://www.google.com/search?q=12+oz.+Ground+Pure+Chicory&stick=H4sIAAAAAAAAAA3IMQ6CMBQA0BBDooOLcXJqHB38FDdWB1dvQLD9lNL2_1oEosdx9AQeT9_4lovNCgIU5XRvw34NBqRsu37Sp6I_bJ2qQHEITJXmmeYm6eGTyf95j-phmcARzx61wTo2hH6AoeMYLZnaxRq9Nfbm8Z3vZCn4dRSXxCNpcR0TinNnFafnN89-R-f-lYYAAAA&sa=X&ved=2ahUKEwjUxqjxgMXzAhUhmWoFHfPSA5QQxA16BAg7EAc",
+    "image":
+    "https://serpapi.com/searches/6165916694c6c7025deef5ab/images/3da5c3104e4a51e58340d10119d9ef0c0f6e783ada4b70fd6ffaf528a1df5363c5721124b0c4d0d0.jpeg"
+    },
+    {
+    "name":
+    "Monterey Bay Spice Chicory...",
+    "link":
+    "https://www.google.com/search?q=Monterey+Bay+Spice+Chicory+Root+Roasted+Granules+1+LB+Bags+Natural+Coffee+and+Tea+Substitute+Caffeine+Free+Beverage+Certified+Kosher&stick=H4sIAAAAAAAAAA2MPU7EMBBGFaGVoKBBHGBESWOCtM2WWQkKfgqWPpq1x44VZ8bYTqL0nISSE3A83HzF-57e5cXNlZrUw-PyZae7a-VU29p9Wvppv93fjvqgtEyT8MHIyismk3-btrIQSBcvrEaWNZBx1EdkClnlQWL07Pox9hS88-dAP7vv5k24UKINOtzgFL0mOA5eS9rgQ6TUwVzIwHNCngNlaOG1q7LL8I5lThjgKNYSAbKBT0I4zedcfJlLLWF9PBM8pSp0tFBCVzGl4q2v1RfJA6W_XfMPNZovy_EAAAA&sa=X&ved=2ahUKEwjUxqjxgMXzAhUhmWoFHfPSA5QQxA16BAg7EAk",
+    "image":
+    "https://serpapi.com/searches/6165916694c6c7025deef5ab/images/3da5c3104e4a51e58340d10119d9ef0c0f6e783ada4b70fd66c3eead310388e95fa3a7d9b692e6d5.jpeg"
+    },
+    {
+    "name":
+    "Herbaila Chicory Roasted...",
+    "link":
+    "https://www.google.com/search?q=Herbaila+Chicory+Roasted+Root+Granules+Lb+Coffee+Free+Tea+Natural+Substitute+%26+Pound+New&stick=H4sIAAAAAAAAAA3IPWrDQBBAYYQR2EWa4AMMLlyk2SgpDG4NtotggpMinZjVjuS1Znfk_YnwdVLmBDle1LwP3nz2uFBOPb9831q3elCdqqpr1YfXjQtPy77ZqkacE781MvoRg4m_RTU9ZmqSFa96LyOT6age0BNHFS8yDNZ3dT_UxLazmumn_DpS0GgZYXexjYQ7nAVjIjMpCQ4BfWaK8KZhJ21LBPsw5ZMQTphyQIaPrGOyKSeCNbxL9gZONP6VxT_Ryrt-xAAAAA&sa=X&ved=2ahUKEwjUxqjxgMXzAhUhmWoFHfPSA5QQxA16BAg7EAs",
+    "image":
+    "https://serpapi.com/searches/6165916694c6c7025deef5ab/images/3da5c3104e4a51e58340d10119d9ef0c0f6e783ada4b70fd80f296058a363e88e80a2c1b567a76c1.jpeg"
+    },
+    {
+    "name":
+    "Community Coffee Coffee...",
+    "link":
+    "https://www.google.com/search?q=Community+Coffee+Coffee+%26+Chicory+Ground+Coffee&stick=H4sIAAAAAAAAADXMPw6CMBSA8RBDooOL8QCNg4PLE0dWBo_RYPsoDe17_QMSruPoCTyeDDp9yW_4tpvDDjxcb8_Y-dMeDFRVzD76KMPlOKgaFHvPVGueaW6Tzu-iWs05VKNlgoF4dqgNytASugy55xAsGTkEic4a-3D4KqFZNxPZcRENdx3iP2fR9FZxWsQ98UT655-y-AJrgg6MmwAAAA&sa=X&ved=2ahUKEwjUxqjxgMXzAhUhmWoFHfPSA5QQxA16BAg7EA0",
+    "image":
+    "https://serpapi.com/searches/6165916694c6c7025deef5ab/images/3da5c3104e4a51e58340d10119d9ef0c0f6e783ada4b70fdec4a6b7871ef989286cf3b6521287889.jpeg"
+    }
+    ],
+    "chicory_coffee_link":
+    "https://www.google.com/search?q=Chicory+coffee&stick=H4sIAAAAAAAAAONgFuLUz9U3MCorTMtVQjC1RLKTrfST83Nz8_OsUvLL88oTi1KKVzEaAsVyclKTSzLz8_Sz8_LLc1JT0lPjCxLzUnOK9Ysz8gsKMvPS47ML4lNzMtMzk3JSF7HyOWdkJucXVSok56elpabuYGUEAEAR73d2AAAA&sa=X&ved=2ahUKEwjUxqjxgMXzAhUhmWoFHfPSA5QQMSgAegQIOxAB",
+    "chicory_coffee_stick":
+    "H4sIAAAAAAAAAONgFuLUz9U3MCorTMtVQjC1RLKTrfST83Nz8_OsUvLL88oTi1KKVzEaAsVyclKTSzLz8_Sz8_LLc1JT0lPjCxLzUnOK9Ysz8gsKMvPS47ML4lNzMtMzk3JSF7HyOWdkJucXVSok56elpabuYGUEAEAR73d2AAAA",
+    "coffee_books":
+    [
+    {
+    "name":
+    "The World Atlas of Coffee: F...",
+    "link":
+    "https://www.google.com/search?q=The+World+Atlas+of+Coffee:+From+Beans+to+Brewing+-+Coffees+Explored,+Explained+and+Enjoyed&stick=H4sIAAAAAAAAAC3JQQqCQBSAYSSEWrQoOsCjZRSjQRDuMuwEQdBudN6YOvNezUjadVp2go5XRLuf7x8OpiNhRbS-37Sdj0Up4jjfmH5b1vVi1hSJKNhapkRxR510yr-CydeMwaKtmETO3PhneD5eEE7sjIJda6QH1rBnrRETODi2kKIkDy1D6rCrqITV_3vI-qthh2r5K1kRKpCkIKOaH6jeYfABYiUriKYAAAA&sa=X&ved=2ahUKEwjUxqjxgMXzAhUhmWoFHfPSA5QQxA16BAg9EAU",
+    "image":
+    "https://serpapi.com/searches/6165916694c6c7025deef5ab/images/3da5c3104e4a51e58340d10119d9ef0c731197c286d418eafe8e1d75f61c7e84a5f4ff7386100ca7.jpeg"
+    },
+    {
+    "name":
+    "Craft Coffee: A Manual",
+    "link":
+    "https://www.google.com/search?q=Craft+Coffee:+A+Manual&stick=H4sIAAAAAAAAAONgFuLUz9U3MCorTMtV4tVP1zc0TKmwTDe2yC7TEslOttJPzs_Nzc-zSskvzytPLEopXsUoCBTLyUlNLsnMz9NPys_PLl7EKuZclJhWouCcn5aWmmql4Kjgm5hXmpizg5URAFoyNJBiAAAA&sa=X&ved=2ahUKEwjUxqjxgMXzAhUhmWoFHfPSA5QQxA16BAg9EAc",
+    "image":
+    "https://serpapi.com/searches/6165916694c6c7025deef5ab/images/3da5c3104e4a51e58340d10119d9ef0c731197c286d418eae2ca32b7fe5a3965f293af100e280f16.jpeg"
+    },
+    {
+    "name":
+    "The Blue Bottle Craft of...",
+    "link":
+    "https://www.google.com/search?q=The+Blue+Bottle+Craft+of+Coffee:+Growing,+Roasting,+and+Drinking,+with+Recipes&stick=H4sIAAAAAAAAAB2IMQrCMBRAESkouCge4OMoQrRO7WgFN4fiBdLkpw1N8jWJxvM4egKPZ-nyeO_Npqs5s2yfvx7KbhasZYe8scWxkO_tuhclE2QtuVJScol7Gb6T5fCMQRE1OdYQ9eGTXW8dwsk8B1CMBqHyXEUgBRUphVjCxVPSrt1BTTzE0biTcPba9WMlHTuoUeg7hl82-QNFNQFmmQAAAA&sa=X&ved=2ahUKEwjUxqjxgMXzAhUhmWoFHfPSA5QQxA16BAg9EAk",
+    "image":
+    "https://serpapi.com/searches/6165916694c6c7025deef5ab/images/3da5c3104e4a51e58340d10119d9ef0c731197c286d418ea2a4c4491e5b91967e98490fc47b5439b.jpeg"
+    },
+    {
+    "name":
+    "The Professional Barista's...",
+    "link":
+    "https://www.google.com/search?q=The+Professional+Barista%27s+Handbook&stick=H4sIAAAAAAAAAONgFuLUz9U3MCorTMtV4tFP1zc0SsrNzS0qttASyU620k_Oz83Nz7NKyS_PK08sSilexSgIFMvJSU0uyczP00_Kz88uXsSqHJKRqhBQlJ-WWlwMFE7MUXBKLMosLklUL1bwSMxLASnbwcoIAIZvHchuAAAA&sa=X&ved=2ahUKEwjUxqjxgMXzAhUhmWoFHfPSA5QQxA16BAg9EAs",
+    "image":
+    "https://serpapi.com/searches/6165916694c6c7025deef5ab/images/3da5c3104e4a51e58340d10119d9ef0c731197c286d418ea34890ccba17763b33af30dbf2d1cf08b.jpeg"
+    },
+    {
+    "name":
+    "Everything But Espress...",
+    "link":
+    "https://www.google.com/search?q=Everything+But+Espresso:+Professional+Coffee+Brewing+Techniques&stick=H4sIAAAAAAAAAONgFuLUz9U3MCorTMtV4tVP1zc0TKkqLjdLKTfTEslOttJPzs_Nzc-zSskvzytPLEopXsUoCBTLyUlNLsnMz9NPys_PLl7Eau9allpUWZKRmZeu4FRaouBaXFCUWlycb6UQUJSfBmQB1SbmKDjnp6Wlpio4FaWWg1SGpCZn5GUWlqYW72BlBACYMYYFiwAAAA&sa=X&ved=2ahUKEwjUxqjxgMXzAhUhmWoFHfPSA5QQxA16BAg9EA0",
+    "image":
+    "https://serpapi.com/searches/6165916694c6c7025deef5ab/images/3da5c3104e4a51e58340d10119d9ef0c731197c286d418ea3a06871f9d0f679705e1fe6f7915c558.jpeg"
+    }
+    ],
+    "coffee_books_link":
+    "https://www.google.com/search?q=Coffee+books&stick=H4sIAAAAAAAAAONgFuLUz9U3MCorTMtVQjC1RLKTrfST83Nz8_OsUvLL88oTi1KKVzEKAsVyclKTSzLz8_ST8vOzixex8jjnp6WlpiqAuTtYGQHBbXIpVAAAAA&sa=X&ved=2ahUKEwjUxqjxgMXzAhUhmWoFHfPSA5QQMSgAegQIPRAB",
+    "coffee_books_stick":
+    "H4sIAAAAAAAAAONgFuLUz9U3MCorTMtVQjC1RLKTrfST83Nz8_OsUvLL88oTi1KKVzEKAsVyclKTSzLz8_ST8vOzixex8jjnp6WlpiqAuTtYGQHBbXIpVAAAAA",
+    "people_also_search_for":
+    [
+    {
+    "name":
+    "Tea",
+    "link":
+    "https://www.google.com/search?q=Tea&stick=H4sIAAAAAAAAAONgFuLUz9U3MCorTMtV4gAxzZNzKrQEgzNTUssTK4v9UitKgktSC4oXsTKHpCbuYGUEAEjPygozAAAA&sa=X&ved=2ahUKEwjUxqjxgMXzAhUhmWoFHfPSA5QQxA16BAg8EAU",
+    "image":
+    "https://serpapi.com/searches/6165916694c6c7025deef5ab/images/3da5c3104e4a51e58340d10119d9ef0c8922f70020484e82863a1fb14ad7834ba7ce81bed561e6d405f00b65c2c336fb.jpeg"
+    },
+    {
+    "name":
+    "Espresso",
+    "link":
+    "https://www.google.com/search?q=Espresso&stick=H4sIAAAAAAAAAONgFuLUz9U3MCorTMtV4gAxk0vSsrUEgzNTUssTK4v9UitKgktSC4oXsXK4FhcUpRYX5-9gZQQADwmvdzgAAAA&sa=X&ved=2ahUKEwjUxqjxgMXzAhUhmWoFHfPSA5QQxA16BAg8EAc",
+    "image":
+    "https://serpapi.com/searches/6165916694c6c7025deef5ab/images/3da5c3104e4a51e58340d10119d9ef0c8922f70020484e82863a1fb14ad7834bca0c55e3d185f15847b7398b104adad3.jpeg"
+    },
+    {
+    "name":
+    "Drink",
+    "link":
+    "https://www.google.com/search?q=Beverage&stick=H4sIAAAAAAAAAONgFuLUz9U3MCorTMtV4tZP1zc0MkoryDMr0hIMzkxJLU-sLPZLrSgJLkktKF7EyuGUWpZalJieuoOVEQCpF_cVOwAAAA&sa=X&ved=2ahUKEwjUxqjxgMXzAhUhmWoFHfPSA5QQxA16BAg8EAk",
+    "image":
+    "https://serpapi.com/searches/6165916694c6c7025deef5ab/images/3da5c3104e4a51e58340d10119d9ef0c8922f70020484e82863a1fb14ad7834bb8f7bd4c5777e7c99a90f6440d6de376.jpeg"
+    },
+    {
+    "name":
+    "Bakery",
+    "link":
+    "https://www.google.com/search?q=Bakery&stick=H4sIAAAAAAAAAONgFuLUz9U3MCorTMtV4gIzy8vMSjK0BIMzU1LLEyuL_VIrSoJLUguKF7GyOSVmpxZV7mBlBAAYMLooOAAAAA&sa=X&ved=2ahUKEwjUxqjxgMXzAhUhmWoFHfPSA5QQxA16BAg8EAs",
+    "image":
+    "https://serpapi.com/searches/6165916694c6c7025deef5ab/images/3da5c3104e4a51e58340d10119d9ef0c8922f70020484e82863a1fb14ad7834b57c37e90b1da558036eee2476bbeeca1.jpeg"
+    },
+    {
+    "name":
+    "Iced coffee",
+    "link":
+    "https://www.google.com/search?q=Iced+coffee&stick=H4sIAAAAAAAAAONgFuLUz9U3MCorTMtVAjNNs5PKDLUEgzNTUssTK4v9UitKgktSC4oXsXJ7JqemKCTnp6Wlpu5gZQQADVX9azwAAAA&sa=X&ved=2ahUKEwjUxqjxgMXzAhUhmWoFHfPSA5QQxA16BAg8EA0",
+    "image":
+    "https://serpapi.com/searches/6165916694c6c7025deef5ab/images/3da5c3104e4a51e58340d10119d9ef0c8922f70020484e82863a1fb14ad7834bab658e29bb3ef9fcbaff7da83ed64051.jpeg"
+    }
+    ],
+    "people_also_search_for_link":
+    "https://www.google.com/search?q=Coffee&stick=H4sIAAAAAAAAAONgFuLUz9U3MCorTMtVQjC1BIMzU1LLEyuL_VIrSoJLUguKF7GyOeenpaWm7mBlBABkIv_mNwAAAA&sa=X&ved=2ahUKEwjUxqjxgMXzAhUhmWoFHfPSA5QQMSgAegQIPBAB",
+    "people_also_search_for_stick":
+    "H4sIAAAAAAAAAONgFuLUz9U3MCorTMtVQjC1BIMzU1LLEyuL_VIrSoJLUguKF7GyOeenpaWm7mBlBABkIv_mNwAAAA",
+    "see_results_about":
+    [
+    {
+    "name":
+    "Coffee",
+    "extensions":
+    [
+    "Plant"
+    ],
+    "image":
+    "https://serpapi.com/searches/6165916694c6c7025deef5ab/images/3da5c3104e4a51e58340d10119d9ef0c4dbfdfcfff1cbe01c2e0271548875123a645e28ce8634e54d852f39ec78d2cfe.jpeg"
+    }
+    ],
+    "list":
+    {
+    "total_fat":
+    [
+    "0 g",
+    "0%"
+    ],
+    "saturated_fat":
+    [
+    "0 g",
+    "0%"
+    ],
+    "trans_fat_regulation":
+    [
+    "0 g"
+    ],
+    "cholesterol":
+    [
+    "0 mg",
+    "0%"
+    ],
+    "sodium":
+    [
+    "5 mg",
+    "0%"
+    ],
+    "potassium":
+    [
+    "116 mg",
+    "3%"
+    ],
+    "total_carbohydrate":
+    [
+    "0 g",
+    "0%"
+    ],
+    "dietary_fiber":
+    [
+    "0 g",
+    "0%"
+    ],
+    "sugar":
+    [
+    "0 g"
+    ],
+    "protein":
+    [
+    "0.3 g",
+    "0%"
+    ],
+    "caffeine":
+    [
+    "95 mg"
+    ],
+    "vitamin_c":
+    [
+    "0%"
+    ],
+    "calcium":
+    [
+    "0%"
+    ],
+    "iron":
+    [
+    "0%"
+    ],
+    "vitamin_d":
+    [
+    "0%"
+    ],
+    "vitamin_b6":
+    [
+    "0%"
+    ],
+    "cobalamin":
+    [
+    "0%"
+    ],
+    "magnesium":
+    [
+    "1%"
+    ]
+    }
+    },
+    "related_questions":
+    [
+    {
+    "question":
+    "Is coffee good for your health?",
+    "snippet":
+    "Not only can your daily cup of joe help you feel more energized, burn fat and improve physical performance, it may also lower your risk of several conditions, such as type 2 diabetes, cancer and Alzheimer's and Parkinson's disease. In fact, coffee may even boost longevity.Sep 20, 2018",
+    "title":
+    "13 Health Benefits of Coffee, Based on Science - Healthline",
+    "link":
+    "https://www.healthline.com/nutrition/top-13-evidence-based-health-benefits-of-coffee",
+    "displayed_link":
+    "https://www.healthline.com › nutrition › top-13-eviden..."
+    },
+    {
+    "question":
+    "What are the 4 types of coffee?",
+    "snippet":
+    "The four main coffee types are Arabica, Robusta, Excelsa, and Liberica and all four of them have radically different taste profiles.",
+    "title":
+    "Coffee Bean Types and Their Characteristics - Cafe Direct",
+    "link":
+    "https://www.cafedirect.co.uk/shop/coffee-bean-types-and-their-characteristics/",
+    "displayed_link":
+    "https://www.cafedirect.co.uk › shop › coffee-bean-types-a..."
+    },
+    {
+    "question":
+    "Does Austin have good coffee?",
+    "snippet":
+    "North Austin Houndstooth has six locations in Austin and Dallas, but the one on North Lamar is the original. Their roasted coffee, Tweed, is a longtime favorite for the Austin community. ... Pop into this cafe for the best health food in town, and a full menu of next-level delicious butter coffee.May 22, 2021",
+    "title":
+    "Our Guide to the 27 Best Coffee Shops in Austin - Camille Styles",
+    "link":
+    "https://camillestyles.com/travel/our-guide-to-the-20-best-coffee-shops-in-austin/",
+    "displayed_link":
+    "https://camillestyles.com › travel › our-guide-to-the-20-be..."
+    },
+    {
+    "question":
+    "What does coffee do to your body?",
+    "snippet":
+    "When taken by mouth: Coffee is LIKELY SAFE for most healthy adults when consumed in moderate amounts (about 4 cups per day). Coffee containing caffeine can cause insomnia, nervousness and restlessness, stomach upset, nausea and vomiting, increased heart and breathing rate, and other side effects.",
+    "title":
+    "COFFEE: Overview, Uses, Side Effects, Precautions, Interactions, Dosing ...",
+    "link":
+    "https://www.webmd.com/vitamins/ai/ingredientmono-980/coffee",
+    "displayed_link":
+    "https://www.webmd.com › vitamins › ingredientmono-980"
+    }
+    ],
+    "organic_results":
+    [
+    {
+    "position":
+    1,
+    "title":
+    "Coffee - Wikipedia",
+    "link":
+    "https://en.wikipedia.org/wiki/Coffee",
+    "displayed_link":
+    "https://en.wikipedia.org › wiki › Coffee",
+    "snippet":
+    "Coffee is a brewed drink prepared from roasted coffee beans, the seeds of berries from certain Coffea species. From the coffee fruit, the seeds are ...",
+    "sitelinks":
+    {
+    "inline":
+    [
+    {
+    "title":
+    "History",
+    "link":
+    "https://en.wikipedia.org/wiki/History_of_coffee"
+    },
+    {
+    "title":
+    "Coffee bean",
+    "link":
+    "https://en.wikipedia.org/wiki/Coffee_bean"
+    },
+    {
+    "title":
+    "Coffee preparation",
+    "link":
+    "https://en.wikipedia.org/wiki/Coffee_preparation"
+    },
+    {
+    "title":
+    "Coffee production",
+    "link":
+    "https://en.wikipedia.org/wiki/Coffee_production"
+    }
+    ]
+    },
+    "rich_snippet":
+    {
+    "bottom":
+    {
+    "extensions":
+    [
+    "Region of origin: Horn of Africa and ‎South Ara...‎",
+    "Color: Black, dark brown, light brown, beige",
+    "Introduced: 15th century"
+    ],
+    "detected_extensions":
+    {
+    "introduced_th_century":
+    15
+    }
+    }
+    },
+    "about_this_result":
+    {
+    "source":
+    {
+    "description":
+    "Wikipedia is a free content, multilingual online encyclopedia written and maintained by a community of volunteers through a model of open collaboration, using a wiki-based editing system. Individual contributors, also called editors, are known as Wikipedians.",
+    "source_info_link":
+    "https://en.wikipedia.org/wiki/Wikipedia",
+    "security":
+    "secure",
+    "icon":
+    "https://serpapi.com/searches/6165916694c6c7025deef5ab/images/ed8bda76b255c4dc4634911fb134de53068293b1c92f91967eef45285098b61516f2cf8b6f353fb18774013a1039b1fb.png"
+    },
+    "keywords":
+    [
+    "coffee"
+    ],
+    "languages":
+    [
+    "English"
+    ],
+    "regions":
+    [
+    "the United States"
+    ]
+    },
+    "cached_page_link":
+    "https://webcache.googleusercontent.com/search?q=cache:U6oJMnF-eeUJ:https://en.wikipedia.org/wiki/Coffee+&cd=4&hl=en&ct=clnk&gl=us",
+    "related_pages_link":
+    "https://www.google.com/search?q=related:https://en.wikipedia.org/wiki/Coffee+Coffee"
+    },
+    {
+    "position":
+    2,
+    "title":
+    "Home | The Coffee Bean & Tea Leaf",
+    "link":
+    "https://www.coffeebean.com/",
+    "displayed_link":
+    "https://www.coffeebean.com",
+    "snippet":
+    "Never run out of your favorite coffees, teas and powders again with our auto-delivery subscription. Select how often your products arrive, pause and cancel ...",
+    "about_this_result":
+    {
+    "source":
+    {
+    "description":
+    "The Coffee Bean & Tea Leaf is an American coffee shop chain founded in 1963. It is a subsidiary of Jollibee Foods Corporation, which has its corporate headquarters in Pasig City, Philippines. As of 2017, the chain has over 1,000 self-owned and franchised stores in the United States and 31 other countries.",
+    "source_info_link":
+    "https://en.wikipedia.org/wiki/The_Coffee_Bean_%26_Tea_Leaf",
+    "security":
+    "secure",
+    "icon":
+    "https://serpapi.com/searches/6165916694c6c7025deef5ab/images/ed8bda76b255c4dc4634911fb134de536aae041ac4d3ec38c806b5ac043223330ee0f1a11b201598d2e5fe218962b69a.png"
+    },
+    "keywords":
+    [
+    "coffee"
+    ],
+    "related_keywords":
+    [
+    "coffees"
+    ],
+    "languages":
+    [
+    "English"
+    ],
+    "regions":
+    [
+    "the United States"
+    ]
+    },
+    "cached_page_link":
+    "https://webcache.googleusercontent.com/search?q=cache:WpQxSYo2c6AJ:https://www.coffeebean.com/+&cd=14&hl=en&ct=clnk&gl=us",
+    "related_pages_link":
+    "https://www.google.com/search?q=related:https://www.coffeebean.com/+Coffee"
+    },
+    {
+    "position":
+    3,
+    "title":
+    "13 Health Benefits of Coffee, Based on Science - Healthline",
+    "link":
+    "https://www.healthline.com/nutrition/top-13-evidence-based-health-benefits-of-coffee",
+    "displayed_link":
+    "https://www.healthline.com › nutrition › top-13-eviden...",
+    "date":
+    "Sep 20, 2018",
+    "snippet":
+    "Coffee is the biggest source of antioxidants in the diet. It has many health benefits, such as improved brain function and a lower risk of ...",
+    "about_this_result":
+    {
+    "source":
+    {
+    "description":
+    "Healthline Media, Inc. is an American website and provider of health information headquartered in San Francisco, CA. It was founded in 2006, and established as a standalone entity in January 2016.
+    As of October 2020, it had a global ranking of 188 by Alexa.",
+    "source_info_link":
+    "https://en.wikipedia.org/wiki/Healthline",
+    "security":
+    "secure",
+    "icon":
+    "https://serpapi.com/searches/6165916694c6c7025deef5ab/images/ed8bda76b255c4dc4634911fb134de53bdd6c24788c5f89b9bdf49ef3e7eca9ff8af07dd95ea31d8d7b136a079d15abe.png"
+    },
+    "keywords":
+    [
+    "coffee"
+    ],
+    "languages":
+    [
+    "English"
+    ],
+    "regions":
+    [
+    "the United States"
+    ]
+    },
+    "cached_page_link":
+    "https://webcache.googleusercontent.com/search?q=cache:u8fDpqqQvRgJ:https://www.healthline.com/nutrition/top-13-evidence-based-health-benefits-of-coffee+&cd=15&hl=en&ct=clnk&gl=us"
+    },
+    {
+    "position":
+    4,
+    "title":
+    "coffee - Amazon.com",
+    "link":
+    "https://www.amazon.com/coffee/s?k=coffee",
+    "displayed_link":
+    "https://www.amazon.com › coffee › k=coffee",
+    "displayed_results":
+    "Results 1 - 48 of 10000+",
+    "snippet":
+    "Coffee is the most widely consumed beverage in the world. The best ground coffee will provide you with a fresh taste without any ...",
+    "rich_snippet":
+    {
+    "top":
+    {
+    "detected_extensions":
+    {
+    "results_of":
+    1
+    },
+    "extensions":
+    [
+    "Results 1 - 48 of 10000+ —"
+    ]
+    }
+    },
+    "about_this_result":
+    {
+    "source":
+    {
+    "description":
+    "Amazon.com, Inc. is an American multinational conglomerate which focuses on e-commerce, cloud computing, digital streaming, and artificial intelligence. It is one of the Big Five companies in the U.S. information technology industry, along with Google, Apple, Microsoft, and Facebook.",
+    "source_info_link":
+    "https://en.wikipedia.org/wiki/Amazon_(company)",
+    "security":
+    "secure",
+    "icon":
+    "https://serpapi.com/searches/6165916694c6c7025deef5ab/images/ed8bda76b255c4dc4634911fb134de539bb1d71cdd8a2b1f4986e798bfc89ed7fd9ed1086315278e9e5efc273469eb34.png"
+    },
+    "keywords":
+    [
+    "coffee"
+    ],
+    "languages":
+    [
+    "English"
+    ],
+    "regions":
+    [
+    "the United States"
+    ]
+    },
+    "cached_page_link":
+    "https://webcache.googleusercontent.com/search?q=cache:wfQ5Et9Ni-kJ:https://www.amazon.com/coffee/s%3Fk%3Dcoffee+&cd=16&hl=en&ct=clnk&gl=us"
+    },
+    {
+    "position":
+    5,
+    "title":
+    "Trade Coffee: Shop Coffee",
+    "link":
+    "https://www.drinktrade.com/",
+    "displayed_link":
+    "https://www.drinktrade.com",
+    "snippet":
+    "Incredible, sustainably sourced coffee delivered fresh from the best roasters in the nation. Get Started. Bean Icon 45px. Craft Coffee. 400+ coffees handpicked ...",
+    "about_this_result":
+    {
+    "source":
+    {
+    "description":
+    "drinktrade.com was first indexed by Google more than 10 years ago",
+    "security":
+    "secure",
+    "icon":
+    "https://serpapi.com/searches/6165916694c6c7025deef5ab/images/ed8bda76b255c4dc4634911fb134de53f38770a7dc87a684eedba6496d29cd5fc16a8c67a282b59f5b0378d4aa2b3b5a.png"
+    },
+    "keywords":
+    [
+    "coffee"
+    ],
+    "related_keywords":
+    [
+    "coffees"
+    ],
+    "languages":
+    [
+    "English"
+    ],
+    "regions":
+    [
+    "the United States"
+    ]
+    },
+    "cached_page_link":
+    "https://webcache.googleusercontent.com/search?q=cache:LokvJmFXmkwJ:https://www.drinktrade.com/+&cd=17&hl=en&ct=clnk&gl=us"
+    },
+    {
+    "position":
+    6,
+    "title":
+    "Peet's Coffee: The Original Craft Coffee",
+    "link":
+    "https://www.peets.com/",
+    "displayed_link":
+    "https://www.peets.com",
+    "snippet":
+    "Since 1966, Peet's Coffee has offered superior coffees and teas by sourcing the best quality coffee beans and tea leaves in the world and adhering to strict ...",
+    "about_this_result":
+    {
+    "source":
+    {
+    "description":
+    "Peet's Coffee is a San Francisco Bay Area-based specialty coffee roaster and retailer owned by JAB Holding Company.",
+    "source_info_link":
+    "https://en.wikipedia.org/wiki/Peet's_Coffee",
+    "security":
+    "secure",
+    "icon":
+    "https://serpapi.com/searches/6165916694c6c7025deef5ab/images/ed8bda76b255c4dc4634911fb134de5367d1607ebc22fef1eb7f33daed51f141473b9155fb7a397ffc2f4d50db71a37b.png"
+    },
+    "keywords":
+    [
+    "coffee"
+    ],
+    "related_keywords":
+    [
+    "coffees"
+    ],
+    "languages":
+    [
+    "English"
+    ],
+    "regions":
+    [
+    "the United States"
+    ]
+    },
+    "cached_page_link":
+    "https://webcache.googleusercontent.com/search?q=cache:BCjzno6zP6wJ:https://www.peets.com/+&cd=18&hl=en&ct=clnk&gl=us",
+    "related_pages_link":
+    "https://www.google.com/search?q=related:https://www.peets.com/+Coffee"
+    },
+    {
+    "position":
+    7,
+    "title":
+    "The History of Coffee",
+    "link":
+    "https://www.ncausa.org/about-coffee/history-of-coffee",
+    "displayed_link":
+    "https://www.ncausa.org › ... › History of Coffee",
+    "snippet":
+    "Coffee grown worldwide can trace its heritage back centuries to the ancient coffee forests on the Ethiopian plateau. There, legend says the goat herder ...",
+    "about_this_result":
+    {
+    "source":
+    {
+    "description":
+    "The National Coffee Association or, is the main market research, consumer information, and lobbying association for the coffee industry in the United States.",
+    "source_info_link":
+    "https://en.wikipedia.org/wiki/National_Coffee_Association",
+    "security":
+    "secure"
+    },
+    "keywords":
+    [
+    "coffee"
+    ],
+    "languages":
+    [
+    "English"
+    ],
+    "regions":
+    [
+    "the United States"
+    ]
+    },
+    "cached_page_link":
+    "https://webcache.googleusercontent.com/search?q=cache:v1hp0SS8WggJ:https://www.ncausa.org/about-coffee/history-of-coffee+&cd=19&hl=en&ct=clnk&gl=us",
+    "related_results":
+    [
+    {
+    "position":
+    1,
+    "title":
+    "What is Coffee?",
+    "link":
+    "https://www.ncausa.org/About-Coffee/What-is-Coffee",
+    "displayed_link":
+    "https://www.ncausa.org › About Coffee",
+    "snippet":
+    "cof·fee /ˈkôfē,ˈkäfē/ noun The berries harvested from species of Coffea plants. Everyone recognizes a roasted coffee bean, but you might ...",
+    "about_this_result":
+    {
+    "source":
+    {
+    "description":
+    "The National Coffee Association or, is the main market research, consumer information, and lobbying association for the coffee industry in the United States.",
+    "source_info_link":
+    "https://en.wikipedia.org/wiki/National_Coffee_Association",
+    "security":
+    "secure"
+    },
+    "keywords":
+    [
+    "coffee"
+    ],
+    "languages":
+    [
+    "English"
+    ],
+    "regions":
+    [
+    "the United States"
+    ]
+    },
+    "cached_page_link":
+    "https://webcache.googleusercontent.com/search?q=cache:ENqpL6s3VPIJ:https://www.ncausa.org/About-Coffee/What-is-Coffee+&cd=20&hl=en&ct=clnk&gl=us"
+    }
+    ]
+    },
+    {
+    "position":
+    8,
+    "title":
+    "EXCLUSIVE Major coffee buyers face losses as Colombia ...",
+    "link":
+    "https://www.reuters.com/world/americas/exclusive-major-coffee-buyers-face-losses-colombia-farmers-fail-deliver-2021-10-11/",
+    "displayed_link":
+    "https://www.reuters.com › world › americas › exclusive-m...",
+    "date":
+    "21 hours ago",
+    "snippet":
+    "Coffee farmers in Colombia, the world's No. 2 arabica producer, have failed to deliver up to 1 million bags of beans this year or nearly 10% ...",
+    "about_this_result":
+    {
+    "source":
+    {
+    "description":
+    "Reuters is an international news organisation owned by Thomson Reuters. It employs around 2,500 journalists and 600 photojournalists in about 200 locations worldwide. Reuters is one of the largest news agencies in the world.
+    The agency was established in London in 1851 by the German-born Paul Reuter.",
+    "source_info_link":
+    "https://en.wikipedia.org/wiki/Reuters",
+    "security":
+    "secure",
+    "icon":
+    "https://serpapi.com/searches/6165916694c6c7025deef5ab/images/ed8bda76b255c4dc4634911fb134de53a35428dfbc728f1789da7cc512d1aa2e6a16bba5a06dda8eaaaf99d12311814f.png"
+    },
+    "keywords":
+    [
+    "coffee"
+    ],
+    "languages":
+    [
+    "English"
+    ],
+    "regions":
+    [
+    "the United States"
+    ]
+    }
+    }
+    ],
+    "related_searches":
+    [
+    {
+    "query":
+    "coffee near me",
+    "link":
+    "https://www.google.com/search?q=Coffee+near+me&sa=X&ved=2ahUKEwjUxqjxgMXzAhUhmWoFHfPSA5QQ1QJ6BAgpEAE"
+    },
+    {
+    "query":
+    "best coffee",
+    "link":
+    "https://www.google.com/search?q=Best+coffee&sa=X&ved=2ahUKEwjUxqjxgMXzAhUhmWoFHfPSA5QQ1QJ6BAgrEAE"
+    },
+    {
+    "query":
+    "coffee brands",
+    "link":
+    "https://www.google.com/search?q=Coffee+brands&sa=X&ved=2ahUKEwjUxqjxgMXzAhUhmWoFHfPSA5QQ1QJ6BAgtEAE"
+    },
+    {
+    "query":
+    "coffee recipe",
+    "link":
+    "https://www.google.com/search?q=Coffee+recipe&sa=X&ved=2ahUKEwjUxqjxgMXzAhUhmWoFHfPSA5QQ1QJ6BAgwEAE"
+    },
+    {
+    "query":
+    "coffee origin",
+    "link":
+    "https://www.google.com/search?q=Coffee+origin&sa=X&ved=2ahUKEwjUxqjxgMXzAhUhmWoFHfPSA5QQ1QJ6BAgyEAE"
+    },
+    {
+    "query":
+    "coffee - wikipedia",
+    "link":
+    "https://www.google.com/search?q=Coffee+-+wikipedia&sa=X&ved=2ahUKEwjUxqjxgMXzAhUhmWoFHfPSA5QQ1QJ6BAgzEAE"
+    },
+    {
+    "query":
+    "coffee subscription",
+    "link":
+    "https://www.google.com/search?q=Coffee+subscription&sa=X&ved=2ahUKEwjUxqjxgMXzAhUhmWoFHfPSA5QQ1QJ6BAg0EAE"
+    }
+    ],
+    "pagination":
+    {
+    "current":
+    1,
+    "next":
+    "https://www.google.com/search?q=Coffee&ei=a5FlYZTlDKGyqtsP86WPoAk&start=10&sa=N&ved=2ahUKEwjUxqjxgMXzAhUhmWoFHfPSA5QQ8NMDegQIAhBJ",
+    "other_pages":
+    {
+    "https://www.google.com/search?q=Coffee&ei=a5FlYZTlDKGyqtsP86WPoAk&start=10&sa=N&ved=2ahUKEwjUxqjxgMXzAhUhmWoFHfPSA5QQ8tMDegQIAhA3",
+    "https://www.google.com/search?q=Coffee&ei=a5FlYZTlDKGyqtsP86WPoAk&start=20&sa=N&ved=2ahUKEwjUxqjxgMXzAhUhmWoFHfPSA5QQ8tMDegQIAhA5",
+    "https://www.google.com/search?q=Coffee&ei=a5FlYZTlDKGyqtsP86WPoAk&start=30&sa=N&ved=2ahUKEwjUxqjxgMXzAhUhmWoFHfPSA5QQ8tMDegQIAhA7",
+    "https://www.google.com/search?q=Coffee&ei=a5FlYZTlDKGyqtsP86WPoAk&start=40&sa=N&ved=2ahUKEwjUxqjxgMXzAhUhmWoFHfPSA5QQ8tMDegQIAhA9",
+    "https://www.google.com/search?q=Coffee&ei=a5FlYZTlDKGyqtsP86WPoAk&start=50&sa=N&ved=2ahUKEwjUxqjxgMXzAhUhmWoFHfPSA5QQ8tMDegQIAhA_",
+    "https://www.google.com/search?q=Coffee&ei=a5FlYZTlDKGyqtsP86WPoAk&start=60&sa=N&ved=2ahUKEwjUxqjxgMXzAhUhmWoFHfPSA5QQ8tMDegQIAhBB",
+    "https://www.google.com/search?q=Coffee&ei=a5FlYZTlDKGyqtsP86WPoAk&start=70&sa=N&ved=2ahUKEwjUxqjxgMXzAhUhmWoFHfPSA5QQ8tMDegQIAhBD",
+    "https://www.google.com/search?q=Coffee&ei=a5FlYZTlDKGyqtsP86WPoAk&start=80&sa=N&ved=2ahUKEwjUxqjxgMXzAhUhmWoFHfPSA5QQ8tMDegQIAhBF",
+    "https://www.google.com/search?q=Coffee&ei=a5FlYZTlDKGyqtsP86WPoAk&start=90&sa=N&ved=2ahUKEwjUxqjxgMXzAhUhmWoFHfPSA5QQ8tMDegQIAhBH"
+    }
+    },
+    "serpapi_pagination":
+    {
+    "current":
+    1,
+    "next_link":
+    "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=Coffee&start=10",
+    "next":
+    "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=Coffee&start=10",
+    "other_pages":
+    {
+    "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=Coffee&start=10",
+    "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=Coffee&start=20",
+    "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=Coffee&start=30",
+    "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=Coffee&start=40",
+    "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=Coffee&start=50",
+    "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=Coffee&start=60",
+    "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=Coffee&start=70",
+    "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=Coffee&start=80",
+    "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=Coffee&start=90"
+    }
+    }
+    }
